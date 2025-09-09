@@ -1,0 +1,4 @@
+plaid-python>=9.4.0
+openai
+psycopg2-binary
+python-dotenv
